@@ -1,1 +1,1 @@
-# Python-Practise-Problems
+# Python-Practice-Problems
